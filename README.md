@@ -1,6 +1,6 @@
 ### Index of available examples
 
-| No  |      Contrato      |
+| No  |      Contract      |
 | --- | ----------- |
 | 001 | AlwaysSucceedsandFails |
 | 002 | JustRedeemer | 
